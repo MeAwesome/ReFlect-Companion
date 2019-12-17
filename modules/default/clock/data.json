@@ -1,0 +1,18 @@
+{
+  "moduleName":"Clock",
+  "developer":"Isaac Robbins",
+  "requiresVersion":"1.0.0",
+  "category":"utility",
+  "config":{
+    "region":"top-left",
+    "type":"digital",
+    "theme":"default",
+    "themes":["default"],
+    "timeFormat":12,
+    "seconds":false,
+    "periodStyle":"lowercase",
+    "date":true,
+    "dateFormat":"dddd-mmmm-d-yyyy",
+    "timezone":"auto"
+  }
+}

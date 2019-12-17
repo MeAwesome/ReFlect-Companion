@@ -1,0 +1,37 @@
+{
+  "meta":{
+    "name":"Default",
+    "description":"The default style for the clock",
+    "designer":"Isaac Robbins",
+    "icon":"icon.svg",
+    "editable":false
+  },
+  "modifiers":{
+    "backgroundColor":"#000000",
+    "hourColor":"#FFFFFF",
+    "colonColor":"#FFFFFF",
+    "minuteColor":"#FFFFFF",
+    "secondColor":"#B5B5B5",
+    "periodColor":"#FFFFFF",
+    "hourFont":"Viga",
+    "colonFont":"Viga",
+    "minuteFont":"Viga",
+    "secondFont":"Viga",
+    "periodFont":"Viga",
+    "digitalBorder":false,
+    "digitalBorderColor":"#FFFFFF",
+    "digitalBorderThickness":3,
+    "hourHandThickness":5,
+    "minuteHandThickness":3,
+    "secondHandThickness":1,
+    "hourHandShape":"rounded",
+    "minuteHandShape":"rounded",
+    "secondHandShape":"rounded",
+    "analogBorder":true,
+    "analogBorderThickness":3,
+    "analogNumbers":true,
+    "analogNumbersStyle":"integers",
+    "analogNumbersColor":"#FFFFFF",
+    "analogCenterColor":"#FFFFFF"
+  }
+}

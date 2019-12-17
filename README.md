@@ -1,2 +1,2 @@
-# ReFlect-Companion
-The mobile app for controlling ReFlect
+# ReFlect
+A Clearer Look At Your Day

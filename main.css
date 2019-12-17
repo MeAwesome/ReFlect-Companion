@@ -1,0 +1,33 @@
+html{box-sizing:border-box;}
+*, *:before, *:after{box-sizing:inherit;}
+*{margin:0;padding:0;border:0;}
+
+html {
+	background-color:#000000;
+	overflow: hidden;
+	height:100%;
+	position:relative;
+	color:#FFFFFF;
+}
+
+canvas{
+	color:#FFFFFF;
+	height:100%;
+	width:100%;
+	margin:0;
+	border:0;
+  overflow:hidden;
+  display:block;
+}
+
+.CenteredImageHolder{
+    display: table-cell;
+    height: 100vh;
+    text-align: center;
+    width: 100vw;
+    vertical-align: middle;
+}
+
+.hidden{
+	display:none;
+}
