@@ -1,0 +1,22 @@
+{
+    "name":"ReFlect Companion",
+    "short_name":"ReFlect Companion",
+    "theme_color":"#008000",
+    "background_color":"#000000",
+    "display":"standalone",
+    "scope":"/",
+    "start_url":"/index.html",
+    "orientation":"portrait",
+    "icons":[
+        {
+          "src":"/images/HSEScheduleAppLogo192.png",
+          "type":"image/png",
+          "sizes":"192x192"
+        },
+      {
+          "src":"/images/HSEScheduleAppLogo512.png",
+          "type":"image/png",
+          "sizes":"512x512"
+      }
+    ]
+}
