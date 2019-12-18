@@ -66,7 +66,7 @@ var WebTalk = {
 		});
 	},
 	createConnection:async function(){
-		WebTalk.socket = await io.connect();
+		WebTalk.socket = await io.connect("http://192.168.84.103:51000");
 		await WebTalk.bindSocketOnEvents();
 		await WebTalk.connectTo(WebTalk.socketData.connectedToRoom);
 		await WebTalk.connectAs(WebTalk.socketData.connectedAs);
